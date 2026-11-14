@@ -11,14 +11,21 @@
 
 Do not open public issues for suspected vulnerabilities.
 
-Instead, report privately to project maintainers with:
+Report vulnerabilities through this repository's **Security** tab using **Report a vulnerability**.
+
+Use a public issue for ordinary bugs, provider-output problems, installation failures, feature
+requests, and documentation corrections. Automated scanner output without validation and a
+demonstrated OmekaRapper impact is not sufficient by itself.
+
+This is a coordinated vulnerability disclosure program, not a bug bounty. We do not offer or
+promise payment, rewards, or swag for reports.
+
+Include:
 
 - Affected version(s)
 - Reproduction steps / proof of concept
 - Impact assessment
 - Suggested mitigation (if available)
-
-If private reporting infrastructure is not yet configured, use repository owner contact and mark the message as a security disclosure.
 
 ## Response targets
 
