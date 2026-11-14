@@ -1,4 +1,9 @@
-# Security Policy
+# Security reporting
+
+This repository follows the
+[mlaify organization-wide security reporting policy](https://github.com/mlaify/.github/blob/main/SECURITY.md).
+That policy defines the reporting channel, maintainer limits, unsupported environments, and the
+absence of payment, rewards, swag, response commitments, or remediation commitments.
 
 ## Supported versions
 
@@ -7,31 +12,14 @@
 | 0.1.x | :white_check_mark: |
 | < 0.1.0 | :x: |
 
-## Reporting a vulnerability
+## Project-specific reporting details
 
-Do not open public issues for suspected vulnerabilities.
+Use this repository's **Security** tab and select **Report a vulnerability** for a credible,
+confidential vulnerability in OmekaRapper. Use a public issue for ordinary bugs,
+provider-output problems, installation failures, feature requests, and documentation corrections.
 
-Report vulnerabilities through this repository's **Security** tab using **Report a vulnerability**.
-
-Use a public issue for ordinary bugs, provider-output problems, installation failures, feature
-requests, and documentation corrections. Automated scanner output without validation and a
-demonstrated OmekaRapper impact is not sufficient by itself.
-
-This is a coordinated vulnerability disclosure program, not a bug bounty. We do not offer or
-promise payment, rewards, or swag for reports.
-
-Include:
-
-- Affected version(s)
-- Reproduction steps / proof of concept
-- Impact assessment
-- Suggested mitigation (if available)
-
-## Response targets
-
-- Acknowledgement: within 3 business days
-- Initial triage: within 7 business days
-- Fix timeline: depends on severity and release constraints
+Include the affected version, safe reproduction steps, realistic impact, and a suggested
+mitigation if one is available.
 
 ## Security requirements for this module
 
